@@ -31,3 +31,4 @@ switch (opcion) {
         alert("La opcion  no es valida")
         break;
 }
+/* Codigo para encomtrar areas de figuras*/
